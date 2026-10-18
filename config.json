@@ -20,6 +20,6 @@
   "refresh": 0,
   "xTvgUrl": false,
   "ondemand": false,
-  "vlcopts": "http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Windows; U; ScaleTV) AppleWebKit/537.11+ (KHTML, like Gecko) SavonTV/1.0.0,http-reconnect=true",
+  "vlcopts": "http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Windows; U; ScaleTV) AppleWebKit/537.11+ (KHTML, like Gecko) SavonTV/1.0.0,http-reconnect=true,audio-track=0",
   "pipeopts": false
 }

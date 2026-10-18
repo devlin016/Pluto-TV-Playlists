@@ -20,6 +20,6 @@
   "refresh": 0,
   "xTvgUrl": false,
   "ondemand": false,
-  "vlcopts": "http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Windows; U; ScaleTV) AppleWebKit/537.11+ (KHTML, like Gecko) SavonTV/1.0.0,http-reconnect=true",
-  "pipeopts": "serverSideAds=false&terminate=false&appName=smarttv&deviceType=smarttv&deviceModel=samsung&deviceMake=samsung"
+  "vlcopts": "http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Windows; U; ScaleTV) AppleWebKit/537.11+ (KHTML, like Gecko) SavonTV/1.0.0,http-reconnect=false",
+  "pipeopts": "serverSideAds=true&terminate=false&appName=smarttv&deviceType=smarttv&deviceModel=samsung&deviceMake=samsung"
 }
